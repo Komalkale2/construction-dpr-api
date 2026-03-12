@@ -110,7 +110,7 @@ construction-dpr-api
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Komalkale2/construction-dpr-api.git>
 cd construction-dpr-api
 ```
 
